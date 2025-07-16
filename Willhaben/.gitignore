@@ -1,0 +1,22 @@
+# .env enthält geheime Tokens
+.env
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor-spezifische Dateien
+.vscode/
+.idea/
+*.swp
+
+# Logs & temporäre Dateien
+*.log
+*.tmp
+
+# MacOS
+.DS_Store
+
+# Docker Build Cache (falls du lokal baust)
+*.bak
